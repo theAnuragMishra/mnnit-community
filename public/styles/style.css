@@ -25,7 +25,7 @@ body::before{
     .jumbotron {
       color: #FFFFFF;
       text-align: center;
-      padding: 100px 0 0 0;
+      padding: 40px 0 0 0;
     }
 
     .cta-section {
@@ -56,3 +56,4 @@ ul{padding:0}
     section.what-doing{
         margin-top: 80px;
     }
+
