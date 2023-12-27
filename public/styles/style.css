@@ -4,7 +4,7 @@ body {
       color: #FFFFFF;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: auto;
-    padding-bottom: 50px;
+
     }
 
 body::before{
@@ -55,5 +55,11 @@ ul{padding:0}
 
     section.what-doing{
         margin-top: 80px;
+    }
+
+    footer{
+        padding-top: 30px;
+        text-align: center;
+        padding-bottom: 10px;
     }
 
